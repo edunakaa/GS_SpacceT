@@ -1,0 +1,12 @@
+const String login = 'Login';
+const String email = 'E-mail';
+const String confe = 'Confirmar E-mail';
+const String senha = 'Senha';
+const String confs = 'Confirmar Senha';
+const String nomedeusuario = 'Nome de Usuario';
+const String nome = 'Nome';
+const String sobrenome = 'Sobrenome';
+const String criarConta = 'Criar Conta';
+const String cadastrar = 'Cadastrar';
+const String nomeDoUsuario = 'Bino';
+const String voltar = 'Voltar';
